@@ -23,7 +23,7 @@
 
 ### Структура файлов
 .zed-memory-bank/
-├── .rules                    # Главный активационный файл
+├── .initial_rules                    # Главный активационный файл
 ├── 00-core.rules             # VAN модуль (инициализация)
 ├── 01-planning.rules         # PLAN модуль (планирование)
 ├── 02-creative.rules         # CREATIVE модуль (дизайн)
